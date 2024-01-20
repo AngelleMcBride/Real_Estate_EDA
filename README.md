@@ -31,9 +31,13 @@ I performed the following tasks to prepare and clean the data:
 4. Identified and removed outliers.
 5. Identified and removed columns with missing values.
 
+### Exploratory Data Analysis
+EDA answered questions, such as:
+1. What are the top 10 homes that have at least 4 bedrooms for the lowest price?
+2. What are the top 20 homes that has at least 1,100 sqft. for the lowest price?
 
 ### Data Analysis
-I worked with features such as: 'latitude', 'longitude', 'price', 'bathrooms', 'bedrooms', 'livingArea', 'lotAreaValue'. 
+I worked with features, such as: 'latitude', 'longitude', 'price', 'bathrooms', 'bedrooms', 'livingArea', 'lotAreaValue'. 
 
 Code example:
 ~~~python
