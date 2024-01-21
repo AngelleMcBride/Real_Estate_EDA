@@ -14,7 +14,7 @@
 This is an exploratory data analysis of real estate properties for sale in Southern California.
 
 ### Data Source
-I obtained this data from Zillow through a webscarpping tool called "Property Search & Detail Tool" using an API from "Scrapeak". Then I saved it as a csv called 'socal_RealEstate.csv'.
+I obtained this data from Zillow through a webscrapping tool called "Property Search & Detail Tool" using an API from "Scrapeak". Then I saved it as a csv called 'socal_RealEstate.csv'.
 
 ### Tools 
 - [Zillow](https://www.zillow.com/) - Collecting Data
